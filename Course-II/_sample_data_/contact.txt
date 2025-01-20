@@ -1,0 +1,5 @@
+name, email, phone
+ann, ann@gmail.com, 238-732-2334
+sam, sam@msn.com, 
+jan, ann@yahoo.com, 732-873-0884
+jim, jim@gmail.com, 902-637-3478
